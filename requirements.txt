@@ -1,6 +1,4 @@
 flask
 scikit-learn
-sentence-transformers
-streamlit
 requests
 gunicorn
